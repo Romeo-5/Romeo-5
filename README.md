@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Romeo 
+
+A Computer Science and Engineering student at Santa Clara University fueled by a passion for data science, machine learning, and their potential to drive innovation. Currently delving into deep learning, data-driven problem-solving, and the art of web development and design.
 
 <!--
 **Romeo-5/Romeo-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
