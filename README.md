@@ -2,6 +2,14 @@
 
 A Computer Science and Engineering student at Santa Clara University fueled by a passion for data science, machine learning, and their potential to drive innovation. I also find interest in the power of design thinking and HCI principles to shape impactful solutions. Currently exploring the fields of deep learning, data-driven problem-solving, and the art of web development and design.
 
+### List of Relevant Courses 
+
+COEN 12 - Advanced Programming 
+COEN 20 - Embedded Systems 
+COEN 60 - Web Technologies 
+COEN 146 - Computer Networks
+
+
 <!--
 **Romeo-5/Romeo-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
