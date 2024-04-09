@@ -12,7 +12,7 @@ A Computer Science and Engineering student at Santa Clara University fueled by a
 * COEN 161 - Web Development
 * COEN 162 - Web Infrastructure
 * COEN 163 - Web Usability 
-* COEN 164 - Advanved Web Development
+* COEN 164 - Advanced Web Development
 * COEN 193 - Undergrad Research
 
 * MATH 11 -> 14 - Caluclus 1, 2, 3
