@@ -19,6 +19,9 @@ A Computer Science and Engineering student at Santa Clara University fueled by a
 * MATH 51 - Discrete Math
 * AMTH 108 - Probability and Statistics 
 
+* ML & Data Science Bootcamp (Online)
+* TensorFlow Developer Course (Online)
+  
 
 <!--
 **Romeo-5/Romeo-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
