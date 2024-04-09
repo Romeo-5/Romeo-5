@@ -4,10 +4,20 @@ A Computer Science and Engineering student at Santa Clara University fueled by a
 
 ### List of Relevant Courses 
 
-COEN 12 - Advanced Programming 
-COEN 20 - Embedded Systems 
-COEN 60 - Web Technologies 
-COEN 146 - Computer Networks
+* COEN 11 - Advanced Programming
+* COEN 12 - Data Structures & Algorithms
+* COEN 20 - Embedded Systems 
+* COEN 60 - Web Technologies 
+* COEN 146 - Computer Networks
+* COEN 161 - Web Development
+* COEN 162 - Web Infrastructure
+* COEN 163 - Web Usability 
+* COEN 164 - Advanved Web Development
+* COEN 193 - Undergrad Research
+
+* MATH 11 -> 14 - Caluclus 1, 2, 3
+* MATH 51 - Discrete Math
+* AMTH 108 - Probability and Statistics 
 
 
 <!--
