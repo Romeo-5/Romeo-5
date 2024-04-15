@@ -24,7 +24,7 @@ A Computer Science and Engineering student at Santa Clara University fueled by a
 ##### Online
 * ML & Data Science Bootcamp (ZTM)
 * TensorFlow Developer Course (ZTM)
-* Standford Supervised ML (DeepLearning.AI)
+* Supervised ML (DeepLearning.AI)
 * Neural Networks and Deep Learning (DeepLearning.AI)
   
 
