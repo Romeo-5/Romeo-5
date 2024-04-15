@@ -22,9 +22,10 @@ A Computer Science and Engineering student at Santa Clara University fueled by a
 * AMTH 108 - Probability and Statistics 
 
 ##### Online
-* ML & Data Science Bootcamp 
-* TensorFlow Developer Course
-* Standford Supervised ML 
+* ML & Data Science Bootcamp (ZTM)
+* TensorFlow Developer Course (ZTM)
+* Standford Supervised ML (DeepLearning.AI)
+* Neural Networks and Deep Learning (DeepLearning.AI)
   
 
 <!--
