@@ -28,7 +28,7 @@ Check out my pinned repositories below for:
 - 🍔 **FoodVision**: Computer vision with Vision Transformers (75K images, 77% accuracy)
 - 💰 **Investment Hub**: Full-stack ML platform (40+ API endpoints)
 - 🌍 **Cross-Cultural AI Coach**: Fine-tuned Llama 3.2-1B with sub-200ms latency
-- 🧠 **TensorFlow Deep Learning**: Comprehensive TensorFlow tutorials and projects
+- 🎵 **Text-to-Music Generation**: AI system generating original music from text prompts using generative models
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/romeo-nickel/)
