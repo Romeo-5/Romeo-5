@@ -35,9 +35,3 @@ Check out my pinned repositories below for:
 - 📧 rjnickel@usc.edu
 - 🌐 Bay Area, CA | Open to Summer 2026 internships
 
----
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-orange?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-orange?style=flat-square&logo=tensorflow)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romeo-5&show_icons=true&theme=radical)
