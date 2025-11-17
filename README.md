@@ -1,18 +1,43 @@
-### 👋 Hi, I'm Romeo 
+# Hi, I'm Romeo! 👋
 
-Recent CSE graduate with expertise in Software Engineering and Machine Learning. Driven by creativity and compassion, I aim to build solutions that bridge technical advancement with social responsibility. My passion lies in creating intelligent, user-centered experiences that positively impact communities and empower people worldwide.
+🎓 **MS in AI @ USC** | 💼 **Data Scientist @ Lineslip Solutions** | 🤖 **Robotics Researcher @ USC ISI Lab**
 
-<!--
-**Romeo-5/Romeo-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML engineer passionate about building intelligent systems that solve real-world problems. Currently working on production LLM systems, computer vision, and 3D robotics.
 
-Here are some ideas to get you started:
+## 🔬 What I'm Working On
+- 🦾 3D reconstruction algorithms for robotic manipulation at USC's ISI Polymorphic Robotics Lab
+- 🤖 Production LLM systems with RAG and fine-tuning (Llama models)
+- 👁️ Computer vision systems with CNNs and Vision Transformers
+- 📊 Full-stack ML applications with FastAPI and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python • Java • C++ • JavaScript/TypeScript • SQL  
+**ML/AI:** PyTorch • TensorFlow • Hugging Face • LangChain • OpenAI API  
+**Tools:** FastAPI • Docker • Git • CI/CD • React  
+**Focus Areas:** LLMs • RAG • Computer Vision • Robotics • Deep Learning
+
+## 🏆 Highlights
+- 📝 Published first-author research at **AHFE Hawaii 2024**
+- 🥇 **55th Annual Senior Design Conference Session Winner**
+- 🎯 Built production ML system achieving **21% accuracy improvement** at Lineslip
+- 🤖 Developed robotics algorithms with **96% tracking accuracy** at USC ISI
+- 👁️ Created computer vision system with **77% accuracy** on 101 categories (75K+ images)
+
+## 📌 Pinned Projects
+Check out my pinned repositories below for:
+- 🍔 **FoodVision**: Computer vision with Vision Transformers (75K images, 77% accuracy)
+- 💰 **Investment Hub**: Full-stack ML platform (40+ API endpoints)
+- 🌍 **Cross-Cultural AI Coach**: Fine-tuned Llama 3.2-1B with sub-200ms latency
+- 🧠 **TensorFlow Deep Learning**: Comprehensive TensorFlow tutorials and projects
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/romeo-nickel/)
+- 📧 rjnickel@usc.edu
+- 🌐 Bay Area, CA | Open to Summer 2026 internships
+
+---
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-orange?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-orange?style=flat-square&logo=tensorflow)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romeo-5&show_icons=true&theme=radical)
