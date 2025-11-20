@@ -26,7 +26,6 @@ I'm an AI/ML engineer passionate about building intelligent systems that solve r
 - 🥇 **55th Annual Senior Design Conference Session Winner**
 - 🎬 Trained neural style transfer model on **118K images** with distributed multi-GPU training
 - 🤖 Developed robotics algorithms with **96% tracking accuracy** at USC ISI
-- 🚀 Achieved **3.5x speedup** with PyTorch DDP on 4-GPU distributed training
 - 👁️ Created computer vision system with **77% accuracy** on 101 categories (75K+ images)
 - ⚡ Built production ML systems serving **10K+ queries/day** with sub-second latency
 
