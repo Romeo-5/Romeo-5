@@ -33,7 +33,7 @@ I'm an AI/ML engineer passionate about building intelligent systems that solve r
 
 Check out my pinned repositories below for:
 
-- 🎬 **TemporalStyleNet**: Real-time video style transfer with temporal consistency (PyTorch, CUDA, 118K training images)
+- 🎬 **TemporalStyleNet**: Production-scale video style transfer (AdaIN + RAFT Optical Flow) achieving 6.45 FPS and trained via DDP on 118K images.
 - 🍔 **FoodVision**: Computer vision with Vision Transformers (75K images, 77% accuracy)
 - 🌍 **Cross-Cultural AI Coach**: Fine-tuned Llama 3.2-1B with Q-LoRA (sub-200ms latency)
 - 🎵 **Text-to-Music Generation**: Generative AI synthesizing audio from text using transformer models
