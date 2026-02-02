@@ -1,5 +1,5 @@
 # Hi, I'm Romeo! 👋
-🎓 **MS in AI @ USC** | 💼 **Data Scientist @ Lineslip Solutions** | 🤖 **Robotics Researcher @ USC ISI Lab**
+🎓 **MS in AI @ USC** | 💼 **ML Engineer @ Lineslip Solutions** | 🤖 **Robotics Researcher @ USC ISI Lab**
 
 I'm an AI/ML engineer passionate about building intelligent systems that solve real-world problems. Currently working on production LLM systems, computer vision, reinforcement learning, and robotics.
 
