@@ -39,7 +39,7 @@ I'm passionate about applying AI and optimization to solve challenging problems 
 - Real-Time Control Systems • Physics-Based Simulation • Predictive Analytics
 
 **Programming & Frameworks**
-- **Languages:** Python (Expert) • C++ • CUDA • MATLAB • JavaScript
+- **Languages:** Python (Expert) • C/C++ • CUDA • MATLAB • JavaScript
 - **ML/AI:** PyTorch • TensorFlow • Computer Vision (RAFT, ViT) • LLMs (Llama, QLoRA)
 - **Robotics:** ROS • Sensor Fusion • SLAM • Path Planning • Multi-Agent Systems
 - **Production:** FastAPI • Docker • CI/CD • Elasticsearch • Git • Linux
