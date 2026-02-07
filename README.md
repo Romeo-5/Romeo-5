@@ -109,5 +109,21 @@ Explored AI-assisted creative interfaces using GPT-3.5 for educational content g
 
 ---
 
+## 💭 What Drives Me
+
+*"I believe the most impactful engineering happens at the intersection of AI and physical systems—
+where optimization algorithms meet real hardware, where simulation validates on robots, and where 
+intelligent systems solve tangible problems in energy, robotics, and aerospace."*
+
+---
+
 **🔍 Looking for:** Summer 2026 opportunities in robotics, clean energy, autonomous systems, and aerospace  
 **🌟 Specialization:** Physics-informed ML engineering for real-world physical systems
+
+---
+
+## 📊 GitHub Stats
+
+![Romeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romeo-5&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeo-5&layout=compact&theme=radical)
