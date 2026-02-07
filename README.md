@@ -4,8 +4,6 @@
 
 Physics-informed ML engineer building intelligent systems for **robotics**, **energy**, and **autonomous systems**. I specialize in **optimization algorithms**, **multi-physics modeling**, and **sensor fusion** for real-world physical systems.
 
----
-
 ## 🔬 Current Research & Work
 
 **@ USC Information Sciences Institute - Polymorphic Robotics Lab**
@@ -18,8 +16,6 @@ Physics-informed ML engineer building intelligent systems for **robotics**, **en
 - 🚀 Production RAG pipelines serving **10K+ queries/day** with sub-second latency
 - ⚡ Achieved **40% performance improvement** through algorithmic optimization and quantization
 - 🔧 Automated CI/CD pipelines and monitoring systems for production ML deployment
-
----
 
 ## 💡 Research Interests
 
@@ -104,9 +100,9 @@ Explored AI-assisted creative interfaces using GPT-3.5 for educational content g
 
 ## 💭 What Drives Me
 
-*"I believe the most impactful engineering happens at the intersection of AI and physical systems—
+I believe the most impactful engineering happens at the intersection of AI and physical systems:
 where optimization algorithms meet real hardware, where simulation validates on robots, and where 
-intelligent systems solve tangible problems in energy, robotics, and aerospace."*
+intelligent systems solve tangible problems in energy, robotics, and aerospace.
 
 ---
 
