@@ -62,13 +62,6 @@ I'm passionate about applying AI and optimization to solve challenging problems 
 
 ## 📌 Featured Projects
 
-### 🤖 Multi-Robot Coordination System
-Distributed inverse kinematics optimization for autonomous robot coordination
-- **96% tracking accuracy** with sub-50ms real-time latency
-- Multi-modal sensor fusion (camera + IR) for robust object tracking
-- Simulation-to-hardware validation framework (Python/C++/ROS)
-- *Technologies:* Python, C++, ROS, OpenCV, NumPy, SciPy
-
 ### 🎬 TemporalStyleNet - Real-Time Video Style Transfer
 Production-scale video processing achieving **6.45 FPS** on 1080p video
 - RAFT optical flow for temporal consistency and ego-motion estimation
