@@ -26,8 +26,6 @@ I'm passionate about applying AI and optimization to solve challenging problems 
 - **✈️ Aerospace** - eVTOL, spacecraft guidance, propulsion optimization
 - **⚛️ Clean Energy** - Nuclear reactor modeling, digital twins, predictive maintenance
 
----
-
 ## 🛠️ Technical Expertise
 
 **Core Competencies**
@@ -43,8 +41,6 @@ I'm passionate about applying AI and optimization to solve challenging problems 
 **Domains**
 - Computer Vision • Production ML Systems • Robotics • Optimization Algorithms • Deep Learning
 
----
-
 ## 🏆 Achievements
 
 - 📝 **First-author publication** at AHFE Hawaii 2024 (AI-facilitated interfaces)
@@ -53,8 +49,6 @@ I'm passionate about applying AI and optimization to solve challenging problems 
 - 🎬 Trained neural style transfer on **118K images** with distributed GPU training
 - 👁️ **77% accuracy** Vision Transformer on 101 food categories (75K+ images)
 - ⚡ Built production systems serving **10K+ queries/day** with **40% performance gains**
-
----
 
 ## 📌 Featured Projects
 
@@ -78,8 +72,6 @@ AI-powered motivational coaching with fine-tuned Llama 3.2 LLM
 - **Won 55th Annual Senior Design Conference Session Award**
 - *Technologies:* Python, Llama, QLoRA, Firebase, Web Development
 
----
-
 ## 📚 Publications
 
 **Creative Collaborator: AI-facilitated UI for Creating Engaging and Insightful Memes**  
@@ -87,16 +79,12 @@ AI-powered motivational coaching with fine-tuned Llama 3.2 LLM
 
 Explored AI-assisted creative interfaces using GPT-3.5 for educational content generation. Comparative user study demonstrated enhanced productivity, creativity, and satisfaction, highlighting AI's potential to augment human creativity.
 
----
-
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/romeo-nickel/)
 - 📧 rjnickel@usc.edu
 - 📍 San Francisco Bay Area, CA
 - 🎯 Open to roles in: Robotics • Energy Systems • Autonomous Vehicles • Aerospace
-
----
 
 ## 💭 What Drives Me
 
