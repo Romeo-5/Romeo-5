@@ -1,6 +1,6 @@
 # Hi, I'm Romeo! 👋
 
-🎓 **MS AI @ USC** | 🤖 **Robotics Research @ USC ISI** | ⚡ **ML Engineer @ Lineslip Solutions**
+🎓 **MS AI @ USC** | 🤖 **Robotics Research @ USC ISI** | ⚡ **Data Scientist @ Lineslip Solutions**
 
 Physics-informed ML engineer building intelligent systems for **robotics**, **energy**, and **autonomous systems**. I specialize in **optimization algorithms**, **multi-physics modeling**, and **sensor fusion** for real-world physical systems.
 
