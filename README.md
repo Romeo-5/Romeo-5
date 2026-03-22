@@ -67,7 +67,7 @@ AI-powered coaching with fine-tuned Llama 3.2 LLM — **Won 55th Annual Senior D
 
 - QLoRA PEFT for culturally-aware content generation
 - Full-stack web application with goal tracking
-- **Tech:** Python, Llama, QLoRA, Firebase
+- **Tech:** Python, Typescript, Llama, QLoRA, Firebase
 
 ---
 
