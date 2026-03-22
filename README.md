@@ -77,7 +77,7 @@ AI-powered coaching with fine-tuned Llama 3.2 LLM — **Won 55th Annual Senior D
 
 **Languages:** Python · C/C++ · CUDA · MATLAB · JavaScript
 
-**ML/AI:** PyTorch · TensorFlow · Computer Vision · LLMs (Llama, QLoRA) · scikit-learn
+**ML/AI:** PyTorch · TensorFlow · Computer Vision · LLMs · scikit-learn
 
 **Robotics:** ROS · Sensor Fusion · Path Planning · Multi-Agent Systems
 
