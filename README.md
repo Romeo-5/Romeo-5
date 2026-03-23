@@ -60,7 +60,7 @@ Distributed inverse kinematics for autonomous multi-robot coordination (USC ISI)
 - 96% tracking accuracy with sub-50ms real-time latency
 - Multi-modal sensor fusion pipeline (camera + IR)
 - Simulation-to-hardware deployment on physical robots
-- **Tech:** Python, C++, ROS, OpenCV, NumPy, SciPy
+- **Tech:** Python, C++, ROS, Unreal Engine, MuJoCo, NumPy, SciPy
 
 ### 🌍 [Cross-Cultural Inspiration Coach](https://github.com/Romeo-5/Inspirational_Coach)
 AI-powered coaching with fine-tuned Llama 3.2 LLM — **Won 55th Annual Senior Design Conference**
