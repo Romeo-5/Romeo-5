@@ -14,7 +14,6 @@ Physics-informed ML engineer applying deep learning and optimization to real-wor
 
 **@ USC Information Sciences Institute — Polymorphic Robotics Lab**
 - Lead software engineer on distributed inverse kinematics for autonomous multi-robot coordination
-- Multi-modal sensor fusion (camera + IR) achieving 96% tracking accuracy at sub-50ms latency
 - Simulation-to-hardware validation pipeline deploying algorithms on physical robots
 - Engineered closed-loop Inverse Kinematics (IK) solvers utilizing real-time physics readback to counteract gravity-induced joint sag in multi-link modular systems
 - Optimized high-fidelity physics constraints in Unreal Engine 5 by correcting centimeter-based inertia calculations, achieving critical damping for reconfigurable robot modules
