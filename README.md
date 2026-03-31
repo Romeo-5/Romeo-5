@@ -9,17 +9,19 @@ Physics-informed ML engineer applying deep learning and optimization to real-wor
 ## 🔬 Current Research & Work
 
 **@ Bloom Energy** *(Summer 2026)*
-- ⚡ Applying ML to solid oxide fuel cell sensor telemetry for anomaly detection and failure analysis
-- 📊 Time-series analysis and root cause diagnosis on high-temperature electrochemical systems
+- Applying ML to solid oxide fuel cell sensor telemetry for anomaly detection and failure analysis
+- Time-series analysis and root cause diagnosis on high-temperature electrochemical systems
 
 **@ USC Information Sciences Institute — Polymorphic Robotics Lab**
-- 🦾 Lead software engineer on distributed inverse kinematics for autonomous multi-robot coordination
-- 📡 Multi-modal sensor fusion (camera + IR) achieving 96% tracking accuracy at sub-50ms latency
-- 🔄 Simulation-to-hardware validation pipeline deploying algorithms on physical robots
+- Lead software engineer on distributed inverse kinematics for autonomous multi-robot coordination
+- Multi-modal sensor fusion (camera + IR) achieving 96% tracking accuracy at sub-50ms latency
+- Simulation-to-hardware validation pipeline deploying algorithms on physical robots
+- Engineered closed-loop Inverse Kinematics (IK) solvers utilizing real-time physics readback to counteract gravity-induced joint sag in multi-link modular systems
+- Optimized high-fidelity physics constraints in Unreal Engine 5 by correcting centimeter-based inertia calculations, achieving critical damping for reconfigurable robot modules
 
 **@ Lineslip Solutions**
-- 🚀 Production RAG pipelines serving 10K+ queries/day with sub-second latency
-- ⚡ 40% performance improvement through algorithmic optimization and quantization
+- Production RAG pipelines serving 10K+ queries/day with sub-second latency
+- 40% performance improvement through algorithmic optimization and quantization
 
 ---
 
