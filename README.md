@@ -1,6 +1,6 @@
 # Hi, I'm Romeo! 👋
 
-**🎓 MS AI @ USC | 🤖 Robotics Research @ USC ISI | ⚡ Incoming Failure Analysis Data Intern @ Bloom Energy**
+**🎓 MS CS (AI) @ USC | 🤖 Robotics Research @ USC ISI | ⚡ Incoming Failure Analysis Data Intern @ Bloom Energy**
 
 Physics-informed ML engineer applying deep learning and optimization to real-world physical systems, from modular robots to fuel cells to nuclear reactors. I build intelligent systems that bridge the gap between simulation and hardware in energy, robotics, and autonomous systems.
 
