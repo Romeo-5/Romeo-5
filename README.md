@@ -1,26 +1,31 @@
 # Hi, I'm Romeo! 👋
 
-**🎓 MS CS (AI) @ USC | 🤖 Robotics Research @ USC ISI | ⚡ Incoming Failure Analysis Data Intern @ Bloom Energy**
+**🎓 MS CS (AI) @ USC · Graduating May 2027 | 🤖 Robotics Research @ USC ISI | ⚡ Failure Analysis @ Bloom Energy**
 
-Physics-informed ML engineer applying deep learning and optimization to real-world physical systems, from modular robots to fuel cells to nuclear reactors. I build intelligent systems that bridge the gap between simulation and hardware in energy, robotics, and autonomous systems.
+I build the machine learning layer for physical systems where being wrong is expensive: robots, energy servers, reactors. Different hardware, one question: how much behavior can a model learn without abandoning the physics that governs it?
 
 ---
 
 ## 🔬 Current Research & Work
 
-**@ Bloom Energy** *(Summer 2026)*
-- Applying ML to solid oxide fuel cell sensor telemetry for anomaly detection and failure analysis
-- Time-series analysis and root cause diagnosis on high-temperature electrochemical systems
+**@ USC Information Sciences Institute — Polymorphic Robotics Lab** *(Sep 2025 – present)*
+- Developing a **distributed inverse kinematics algorithm** for modular self-reconfigurable robots: each module runs its own local solver and coordinates by message passing over the physical connection graph, applying damped least squares to its local Jacobian column. No single controller needs the full kinematic chain
+- Moved constraint enforcement out of a global controller into individual modules, making the solver **morphology-agnostic**: the same algorithm runs on arbitrary assembled topologies without re-deriving kinematics
+- Engineered closed-loop IK solvers using real-time physics readback to counteract gravity-induced joint sag in multi-link modular systems
+- Tuned high-fidelity physics constraints in Unreal Engine 5, correcting unit-scale inertia calculations to achieve critical damping for reconfigurable modules
+- Built the simulation environments (Unreal Engine, MuJoCo) and sim-to-real pipelines validating the work on physical SuperBot hardware
+- Paper in preparation, targeting ICRA/IROS
 
-**@ USC Information Sciences Institute — Polymorphic Robotics Lab**
-- Lead software engineer on distributed inverse kinematics for autonomous multi-robot coordination
-- Simulation-to-hardware validation pipeline deploying algorithms on physical robots
-- Engineered closed-loop Inverse Kinematics (IK) solvers utilizing real-time physics readback to counteract gravity-induced joint sag in multi-link modular systems
-- Optimized high-fidelity physics constraints in Unreal Engine 5 by correcting centimeter-based inertia calculations, achieving critical damping for reconfigurable robot modules
+**@ Bloom Energy — Failure Analysis, Quality & Reliability** *(Summer 2026)*
+- Proposed and built a **locally-hosted conversational agent** (Ollama) with a **tool-use architecture**, providing natural-language access to the fleet-intelligence platform: pulling telemetry, running component-health algorithms, computing reliability analytics. Self-hosted by design so proprietary data never leaves company infrastructure
+- Wired detection algorithms into a **config-file-driven CLI** so analyses run without code changes, then deployed the repo and trained the team's specialists to run and tune it themselves
+- Scaled a telemetry-based failure detector for DC-DC power converters to the full confirmed-failure population: **recall 82.2% → 92.5%, zero new false positives, ~27-day median detection lead**
+- Owned a solo failure-analysis investigation end to end (reliability modeling through physical flow-bench testing) and presented it at the company-wide review
+- Researched **single-event effects (SEE)** device physics and neutron detection instrumentation to support a radiation-effects test campaign
 
-**@ Lineslip Solutions**
-- Production RAG pipelines serving 10K+ queries/day with sub-second latency
-- 40% performance improvement through algorithmic optimization and quantization
+**@ LineSlip Solutions** *(2024 – 2026)*
+- Production **RAG** pipeline on Llama 3.1-8B with Elasticsearch retrieval and custom reranking, serving **10K+ queries/day**
+- 35% accuracy improvement over baseline; 40% latency reduction via INT8 quantization
 
 ---
 
@@ -28,10 +33,10 @@ Physics-informed ML engineer applying deep learning and optimization to real-wor
 
 Applying AI and optimization to hard tech problems where physics constrains the solution:
 
-- ⚛️ **Nuclear Energy & Clean Power** — Reactor modeling, digital twins, predictive maintenance, fault diagnosis
-- 🔋 **Energy Systems** — Fuel cell degradation analysis, battery optimization, grid reliability
-- 🤖 **Robotics & Autonomy** — Distributed control, perception, multi-agent coordination
-- ✈️ **Aerospace** — GNC, propulsion optimization, eVTOL systems
+- ⚛️ **Nuclear Energy** — reactor modeling & simulation, digital twins, surrogate models, fault diagnosis
+- 🔋 **Energy Systems** — fuel cell degradation, predictive maintenance, fleet reliability
+- 🤖 **Robotics & Autonomy** — distributed control, modular self-reconfigurable systems, sim-to-real
+- 🧪 **Physics-Informed ML** — learning dynamics without discarding the governing physics
 
 ---
 
@@ -40,60 +45,62 @@ Applying AI and optimization to hard tech problems where physics constrains the 
 ### ⚛️ [Nuclear Power Plant Fault Diagnosis & Root Cause Analysis](https://github.com/Romeo-5/Nuclear-Power-Plant-Accident-Diagnosis-and-Root-Cause-Analysis)
 Deep learning on time-series reactor sensor data for accident detection and diagnosis
 
-- Semi-supervised anomaly detection on 96 operational parameters across 18 accident scenarios
-- Autoencoder, LSTM, and Transformer architectures achieving 0.985+ AUROC
-- Multi-class accident classification with SHAP-based root cause attribution 
-- Physics-informed digital twin surrogate model 
-- **Data:** NPPAD dataset (Nature Scientific Data) from PCTRAN PWR simulator
+- Semi-supervised anomaly detection across **96 operational parameters** and **18 accident scenarios**
+- Autoencoder, LSTM, and Transformer architectures
+- Multi-class accident classification with **SHAP-based root cause attribution**, validated against known accident physics
+- **Data:** NPPAD dataset (*Nature Scientific Data*) from the PCTRAN PWR simulator
 - **Tech:** PyTorch, pandas, scikit-learn
 
 ### 🎬 [TemporalStyleNet](https://github.com/Romeo-5/Temporal-Style-Net) — Real-Time Video Style Transfer
-Production-scale video processing achieving 6.45 FPS on 1080p video
+Video processing achieving 6.45 FPS on 1080p
 
 - RAFT optical flow for temporal consistency and ego-motion estimation
-- Trained on 118K MS-COCO images using distributed PyTorch DDP with custom CUDA kernels
-- 30% training speedup through CUDA optimization
-- **Tech:** PyTorch, CUDA, RAFT, Computer Vision
+- Trained on **118K MS-COCO images** using **distributed PyTorch DDP** across 4 GPUs
+- **Tech:** PyTorch, RAFT, computer vision
 
-### 🤖 Multi-Robot Coordination System
-Distributed inverse kinematics for autonomous multi-robot coordination (USC ISI)
+### 🤖 Modular Robot Coordination (USC ISI)
+Distributed inverse kinematics for modular self-reconfigurable robots
 
-- 96% tracking accuracy with sub-50ms real-time latency
-- Multi-modal sensor fusion pipeline (camera + IR)
-- Simulation-to-hardware deployment on physical robots
-- **Tech:** Python, C++, ROS, Unreal Engine, MuJoCo, NumPy, SciPy
+- Per-module local solvers with neighbor message passing; damped least squares on local Jacobian columns
+- Null-space redundancy resolution for joint-limit avoidance; potential-field obstacle avoidance
+- Simulation-to-hardware deployment on physical SuperBot modules
+- **Tech:** Python, NumPy, SciPy, Unreal Engine, MuJoCo
 
 ### 🌍 [Cross-Cultural Inspiration Coach](https://github.com/Romeo-5/Inspirational_Coach)
-AI-powered coaching with fine-tuned Llama 3.2 LLM — **Won 55th Annual Senior Design Conference**
+AI coaching with a fine-tuned Llama 3.2 — **Session Winner, 55th Annual Senior Design Conference**
 
 - QLoRA PEFT for culturally-aware content generation
 - Full-stack web application with goal tracking
-- **Tech:** Python, Typescript, Llama, QLoRA, Firebase
+- **Tech:** Python, TypeScript, Llama, QLoRA, Firebase
 
 ---
 
 ## 🛠️ Technical Expertise
 
-**Core:** Distributed Optimization · Sensor Fusion · Time-Series Analysis · Anomaly Detection · Physics-Informed ML
+**Core:** Physics-Informed ML · Distributed Optimization · Time-Series Analysis · Anomaly Detection · Digital Twins & Surrogate Modeling
 
-**Languages:** Python · C/C++ · CUDA · MATLAB · JavaScript
+**Languages:** Python · SQL · C/C++ · Java · R · Shell
 
-**ML/AI:** PyTorch · TensorFlow · Computer Vision · LLMs · scikit-learn
+**ML/AI:** PyTorch · scikit-learn · Transformers · sentence-transformers · Distributed Training (DDP) · LLM fine-tuning (QLoRA/PEFT) · Quantization
 
-**Robotics:** ROS · Sensor Fusion · Path Planning · Multi-Agent Systems
+**Agents & LLM Systems:** Tool-use architectures · Local model deployment (Ollama) · Production RAG · Retrieval + reranking · Semantic clustering
 
-**Production:** FastAPI · Docker · CI/CD · Elasticsearch · Git · Linux
+**Reliability & Physics:** Kaplan–Meier · Weibull hazard modeling · Probability calibration · Single-event effects (SEE/SEB) · JESD89A · Neutron flux modeling
+
+**Simulation & Robotics:** Unreal Engine · MuJoCo · Inverse kinematics · Sim-to-real · Multi-agent coordination
+
+**Production:** FastAPI · Elasticsearch · Postgres · Docker · CI/CD · Git · Linux
 
 ---
 
 ## 🏆 Highlights
 
 - 📝 First-author publication at **AHFE Hawaii 2024** — AI-facilitated creative interfaces
-- ⚛️ Built ML fault diagnosis system for nuclear reactor sensor data (NPPAD/PCTRAN)
-- 🤖 96% tracking accuracy on distributed multi-robot coordination (USC ISI)
-- 🎬 Trained neural style transfer on 118K images with distributed GPU training
-- ⚡ Production ML systems serving 10K+ queries/day with 40% performance gains
-- 🥇 55th Annual Senior Design Conference Session Winner — Santa Clara University
+- ⚛️ ML fault diagnosis for nuclear reactor transients (NPPAD / PCTRAN)
+- 🤖 Distributed IK for modular self-reconfigurable robots; paper targeting ICRA/IROS
+- 🔧 Built and deployed an agentic system on locally-hosted models for an industrial reliability team
+- ⚡ Production ML serving 10K+ queries/day
+- 🥇 Session Winner, 55th Annual Senior Design Conference — Santa Clara University
 
 ---
 
@@ -102,6 +109,9 @@ AI-powered coaching with fine-tuned Llama 3.2 LLM — **Won 55th Annual Senior D
 **Creative Collaborator: AI-facilitated UI for Creating Engaging and Insightful Memes**
 *First Author* | AHFE Hawaii 2024 | [DOI: 10.54941/ahfe1005579](https://doi.org/10.54941/ahfe1005579)
 
+**Distributed Inverse Kinematics for Modular Self-Reconfigurable Robots**
+*with W.-M. Shen* | In preparation, ICRA/IROS
+
 ---
 
 ## 📫 Connect
@@ -109,5 +119,3 @@ AI-powered coaching with fine-tuned Llama 3.2 LLM — **Won 55th Annual Senior D
 - 💼 [LinkedIn](https://linkedin.com/in/romeo-nickel)
 - 📧 rjnickel@usc.edu
 - 📍 Los Angeles, CA
-
----
