@@ -38,9 +38,9 @@ Applying AI and optimization where physics constrains the solution:
 Monte Carlo neutron transport in OpenMC, with a surrogate measured against the stochastic uncertainty of the calculation it replaces
 
 - **488-run transport campaign** over a PWR pin-cell lattice, sweeping enrichment, fuel temperature, moderator density, and pitch
-- Verified by Shannon-entropy source convergence, 1/√N scaling of σ, and spectrum shape — not by a single eigenvalue; quoted uncertainty confirmed against seed-replicate scatter
+- Verified by Shannon-entropy source convergence, 1/√N scaling of σ, and spectrum shape; quoted uncertainty confirmed against seed-replicate scatter
 - **Gaussian-process surrogate for k-infinity:** 25 pcm error against the true response surface (noise deconvolved in quadrature) vs 90 pcm transport σ, at ~10⁷× lower marginal cost
-- **Reactivity coefficients validated against transport runs the surrogate never saw** — Doppler 0.3σ, enrichment 0.2σ. The moderation optimum found by sweeping density and by sweeping pitch agrees to 0.06%
+- **Reactivity coefficients validated against transport runs the surrogate never saw**; Doppler 0.3σ, enrichment 0.2σ. The moderation optimum found by sweeping density and by sweeping pitch agrees to 0.06%
 - **Tech:** OpenMC, scikit-learn, ENDF/B-VII.1, Docker
 
 ### ⚛️ [Reactor Transient Diagnosis](https://github.com/Romeo-5/Nuclear-Power-Plant-Accident-Diagnosis-and-Root-Cause-Analysis)
@@ -80,7 +80,7 @@ Fine-tuned Llama 3.2 coaching app — **Session Winner, 55th Annual Senior Desig
 
 **Creative Collaborator: AI-facilitated UI for Creating Engaging and Insightful Memes** — *first author* | AHFE International, 2024 | [DOI: 10.54941/ahfe1005579](https://doi.org/10.54941/ahfe1005579)
 
-**Distributed Inverse Kinematics for Modular Self-Reconfigurable Robots** — with W.-M. Shen | *in preparation, IROS 2027*
+**Distributed Inverse Kinematics for Modular Self-Reconfigurable Robots** — *in preparation, IROS 2027*
 
 ---
 
